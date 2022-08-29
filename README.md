@@ -1,4 +1,4 @@
-# PsaGameModelIntegration
+# PSA Game Model Integration
 
 ## Directory
 
