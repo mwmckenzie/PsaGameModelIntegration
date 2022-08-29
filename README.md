@@ -2,4 +2,4 @@
 
 ## Directory
 
-[Docs ReadMe](PsaGameModelIntegration/docs/pages/README.md)
+[Docs ReadMe](/docs/pages/README.md)
