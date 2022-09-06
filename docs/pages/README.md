@@ -2,4 +2,4 @@
 
 ## Discussion Pages
 
-[Docs ReadMe](/docs/pages/README.md)
+[Player Facing Information](/docs/pages/playerFacingInfo.md)
