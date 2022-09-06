@@ -13,14 +13,14 @@
 - Vaccinated To Susceptible Rate
 
 ## Type Ratios
-- Hosp To Non Hosp Ratio 
-- Asymp To Symp Ratio 
-- Critical To Hosp Ratio 
-- Deceased To Critical Recov Ratio 
+- Hospitalization To Non-Hospitalization Ratio 
+- Asymptomatic To Symptomatic Ratio 
+- Critical To Non-Critical Hospitalization Ratio 
+- Deceased To Critical Case Recovery Ratio 
 
 ## Transmission Rates
-- Symp Transmission Rate 
-- Asymp Transmission Rate 
+- Symptomatic Transmission Rate 
+- Asymptomatic Transmission Rate 
 - Hospital Transmission Rate 
 - Critical Transmission Rate 
 - Visitor Transmission Rate 
