@@ -4,4 +4,4 @@
 
 ## Directory
 
-[Docs ReadMe](/docs/pages/README.md)
+[Document Pages](/docs/pages/README.md)
