@@ -1,7 +1,7 @@
 # Simulation Parameters
 
 ## Example Parameter Set
-- [PSA Game Simulation Parameters](/main/json/parameters/SeirModelParams_PsaGame_2022-09-06-1049.json)
+- [PSA Game Simulation Parameters](/json/parameters/SeirModelParams_PsaGame_2022-09-06-1049.json)
 
 ## Conversion Rates
 - Exposed To Infectious Rate 
