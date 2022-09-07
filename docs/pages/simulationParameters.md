@@ -4,6 +4,7 @@
 - [PSA Game Simulation Parameters](/json/parameters/SeirModelParams_PsaGame_2022-09-06-1049.json)
 
 ## Conversion Rates
+
 - Exposed To Infectious Rate 
 - Symptomatic Recovery Rate 
 - Asymptomatic Recovery Rate 
@@ -38,3 +39,21 @@
 ## False Test Result Rates
 - False Pos Rate 
 - False Neg Rate 
+
+# Variables
+
+## Conversion Rates
+
+| Description                    | Variable                    |
+|--------------------------------|-----------------------------|
+|   Exposed To Infectious Rate   | exposedToInfectiousRate     |
+|    Symptomatic Recovery Rate   | symptomaticRecoveryRate     |
+| Asymptomatic Recovery Rate     | asymptomaticRecoveryRate    |
+| Hospitalization Recovery Rate  | hospitalizationRecoveryRate |
+| Critical Recovery Rate         | criticalRecoveryRate        |
+| Recovered To Susceptible Rate  | recoveredToSusceptibleRate  |
+| Vaccinated To Susceptible Rate | vaccinatedToSusceptibleRate |
+
+## Type Ratios
+
+
