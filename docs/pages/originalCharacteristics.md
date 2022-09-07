@@ -59,3 +59,5 @@
 | 0.0050% | 2.000% |
 
 > Translates to 4% of symptomatic
+
+
