@@ -6,10 +6,11 @@
 
 > Year undetermined
 
-| Calendar | Day 0  | Week -10 | true patient zero   |
-|----------|--------|----------|---------------------|
-|          | Day 35 | Week -5  | first detected case |
-|          | Day 70 | Week 0   | beginning of game   |
+| Calendar |          |                     |
+|:--------:|----------|---------------------|
+|   Day 0  | Week -10 |  true patient zero  |
+| Day 35   | Week -5  | first detected case |
+| Day 70   | Week 0   | beginning of game   |
 
 # Game Nations/Countries
 
