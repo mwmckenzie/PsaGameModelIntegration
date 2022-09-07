@@ -116,4 +116,28 @@ Home tests for influenza are widely available but may not detect H9N2 infections
 |-----------|------------------|---------|
 | Current   | 200              | per day |
 
+### Test Results Lag Time
+
+| Lag Time | Time |     |
+|----------|------|-----|
+| Min      | 1    | day |
+| Max      | 1.5  | day |
+
+### Other Testing Available
+
+Maybe?
+
+## Card KC
+
+### Title
+
+### Text
+
+Based on the data available four plausible scenarios have been analyzed for possible emergence of the virus in Blue Land.  The likelihood of each scenario is not yet clear.
+
+### Graph
+
+![image](https://user-images.githubusercontent.com/57882845/188958180-966ea148-27c3-4928-afb5-3e92c8366756.png)
+
+
 
