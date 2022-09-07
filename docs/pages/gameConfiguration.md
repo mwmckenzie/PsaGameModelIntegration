@@ -1,4 +1,4 @@
-# PSA Game Original Configuration
+# PSA Game Original Configuration and Setting
 
 ## Game Timeframe Info
 
@@ -10,6 +10,8 @@
 |----------|--------|----------|---------------------|
 |          | Day 35 | Week -5  | first detected case |
 |          | Day 70 | Week 0   | beginning of game   |
+
+# Game Nations/Countries
 
 ## Population Characteristics	of Grey Land
 
@@ -61,6 +63,27 @@ No information.
 | 2.6  | persons per houshold |
 |-----:|----------------------|
 
+### Acute care hospital bed capacity
 
+| 332 | per 100K population |
+|----:|---------------------|
 
+# Game Outbreak Information
 
+## Grey Land
+
+### Initial Case
+- Jumped from avian to human ~9 weeks ago
+- Human-to-Human transmission
+
+|                      | Info |                 |
+|----------------------|------|-----------------|
+| Urban areas detected |    3 |                 |
+| Cases                |  514 | confirmed cases |
+
+## Blue Land
+
+### Infections
+
+| Cases reported | 0 |
+|----------------|--:|
