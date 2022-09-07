@@ -47,9 +47,9 @@ Mild to severe flu symptoms
 ### Incubation period
 Infection to symptoms
 
-| Adults > 12 | <12 yo |      |      |
-|:-----------:|:------:|------|------|
-|           7 |      5 | days | days |
+| Adults > 12 | <12 yo |      |
+|:-----------:|:------:|------|
+|           7 |      5 | days |
 
 ### Duration of Symptoms (days)
 
