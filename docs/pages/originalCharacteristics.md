@@ -39,10 +39,10 @@ Mild to severe flu symptoms
 
 ### Symptomatic proportion by age group
 
-| Adults >18 | 13-18 | <12 yo |      |
-|:----------:|:-----:|:------:|------|
-|         5% |   25% |    50% | days |
-|            |   12% |    50% | days |
+| Adults >18 | 13-18 | <12 yo |
+|:----------:|:-----:|:------:|
+|         5% |   25% |    50% |
+|            |   12% |    50% |
 
 ### Incubation period
 Infection to symptoms
