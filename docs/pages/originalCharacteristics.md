@@ -51,3 +51,11 @@
 |-------------|:------:|:------:|------|
 | Symptomatic |    2-3 |    5-7 | days |
 
+### Hospitalized proportion by age group 
+> As a percent of all infections, sympotmatic and asymptomatic
+
+|  Adults | <12 yo |
+|:-------:|:------:|
+| 0.0050% | 2.000% |
+
+> Translates to 4% of symptomatic
