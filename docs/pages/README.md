@@ -1,5 +1,9 @@
 # Pages Overview and Main Directory
 
+## Reference Pages
+
+- [Original Pathogen Characteristics](/docs/pages/originalCharacteristics.md)
+
 ## Discussion Pages
 
 - [Early Results](/docs/pages/earlyResults.md)
