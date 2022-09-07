@@ -76,3 +76,17 @@
 
 ## Testing Rates
 
+| Description                  | Variable                   |
+|------------------------------|----------------------------|
+| Susceptible Testing Rate     | susceptibleTestingRate     |
+| Exposed Testing Rate         | exposedTestingRate         |
+| Symptomatic Testing Rate     | symptomaticTestingRate     |
+| Asymptomatic Testing Rate    | asymptomaticTestingRate    |
+| Hospitalization Testing Rate | hospitalizationTestingRate |
+| Critical Testing Rate        | criticalTestingRate        |
+| Recovered Testing Rate       | recoveredTestingRate       |
+| Vaccinated Testing Rate      | vaccinatedTestingRate      |
+
+
+## False Test Result Rates
+
