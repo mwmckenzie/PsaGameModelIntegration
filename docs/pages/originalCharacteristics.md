@@ -1,15 +1,20 @@
 # PSA Game Original Characteristics
 
-## Pathogen Specific Parameters			
+## General Info
 
-### General Info 
+### Pathogen
+Influenza A H9N2 
 
+### Symptoms
+Mild to severe flu symptoms
+
+### Various Period Lengths
 |                    | Info                        | Info Label (if needed) |
 |--------------------|-----------------------------|------------------------|
-| Pathogen           | Influenza A H9N2            |                        |
-| Symptoms           | Mild to severe flu symptoms |                        |
 | Incubation period  |                           7 | days (estimated mean)  |
 | Symptomatic period |                           7 | days (estimated mean)  |
+
+## Pathogen Characteristics
 
 ### Susceptibility
 
@@ -39,7 +44,8 @@
 |         5% |   25% |    50% | days |
 |            |   12% |    50% | days |
 
-### Incubation period (infection to symptoms)
+### Incubation period
+Infection to symptoms
 
 | Adults > 12 | <12 yo |      |      |
 |:-----------:|:------:|------|------|
