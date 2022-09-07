@@ -13,21 +13,31 @@ No hospitalizations over age 12 or deaths at any age have been attributed to the
 
 ## Data from Card KC1
 
-### Number of Population Groups
+### Number of Population Group
+
 | 3 | Cities |
 |---|--------|
 
 ### Population Group Characteristics
+
 | Age | Under 12 |
 |-----|----------|
 
 ### Hospital Admissions
+
+> per 100k
+
 | Timeframe | Daily Admissions (Approx) | Weekly Admissions |
 |-----------|---------------------------|-------------------|
 | Current   | 1.43                      | 10                |
 | -14 Days  | 0.3                       | 2                 |
-> per 100k
 
+### Test Results
+
+| Timeframe  | Positive Test Results |
+|------------|-----------------------|
+| Current    | 0                     |
+| Cumulative | 0                     |
 
 
 
