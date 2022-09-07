@@ -40,3 +40,27 @@
 
 | 2.14 | persons per houshold |
 |-----:|----------------------|
+
+
+## Population Characteristics	of Blue Land
+
+### Population
+
+| Blue Land  | Info | Info Label (if needed) |
+|------------|------|------------------------|
+| Population |   45 | million                |
+| >65        |  8.1 | million                |
+| <14        |  6.1 | million                |
+
+### Cities
+
+No information.
+
+### Average Household Size	
+
+| 2.6  | persons per houshold |
+|-----:|----------------------|
+
+
+
+
