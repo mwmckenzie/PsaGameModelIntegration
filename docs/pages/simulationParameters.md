@@ -56,4 +56,13 @@
 
 ## Type Ratios
 
+| Description                                    | Variable                     |
+|------------------------------------------------|------------------------------|
+|  Hospitalization To Non-Hospitalization Ratio  | hospToNonHospRatio           |
+|        Asymptomatic To Symptomatic Ratio       | asympToSympRatio             |
+| Critical To Non-Critical Hospitalization Ratio | criticalToHospRatio          |
+| Deceased To Critical Case Recovery Ratio       | deceasedToCriticalRecovRatio |
+
+
+## Transmission Rates
 
