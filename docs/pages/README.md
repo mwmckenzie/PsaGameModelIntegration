@@ -3,7 +3,7 @@
 ## Reference Pages
 
 - [Original Pathogen Characteristics](/docs/pages/originalCharacteristics.md)
-- [Original Game Configuration and Setting]()
+- [Original Game Configuration and Setting](/docs/pages/gameConfiguration.md)
 
 ## Discussion Pages
 
