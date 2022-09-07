@@ -35,3 +35,8 @@
 | City 8  |    176,432 |
 | City 9  |    167,673 |
 | City 10 |    158,732 |
+
+### Average Household Size	
+
+| 2.14 | persons per houshold |
+|-----:|----------------------|
