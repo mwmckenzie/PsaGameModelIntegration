@@ -2,10 +2,10 @@
 
 ## Card KC1
 
-### Card Title
+### Title
 REPORT -HEALTHCARE
 
-### Card Text
+### Text
 
 In the three affected cities, weekly pediatric hospital admissions for infection-related complications have increased over the last three weeks from 2 to 10 per 100K children under 12.
 
@@ -41,8 +41,13 @@ No hospitalizations over age 12 or deaths at any age have been attributed to the
 
 ## Data from Card KC3
 
+### Title
+
+REPORT – PATHOGEN 
+
 ### Text
-Type: Influenza A H9N2
+Type:
+- Influenza A H9N2
 
 Disease Characteristics:
 - Onset: 7 days (estimated mean)
