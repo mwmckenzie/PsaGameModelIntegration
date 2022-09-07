@@ -82,3 +82,38 @@ Socioeconomic factors
 - Unemployment rate: low-medium
 - Health systems:  effective, good accessibility and medium inequality
 
+
+## Card KC5
+
+### Title
+
+PREDICTION – MOLECULAR
+
+### Text
+
+Clustering analysis of pathogen sequences indicates: 
+- Potential high mortality rate in adults 
+- Potential low transmission rate in all ages
+
+
+## Card KC7
+
+### Title
+
+PROFILE – TESTING CAPACITY
+
+### Text
+
+National labs can run approximately 200 high accuracy test per day, with a 24-36 hour turn around. 
+
+Home tests for influenza are widely available but may not detect H9N2 infections.
+
+## Data From Card KC7
+
+### Testing Rate Limits
+
+| Timeframe | Test Count Limit |         |
+|-----------|------------------|---------|
+| Current   | 200              | per day |
+
+
