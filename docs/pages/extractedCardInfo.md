@@ -39,7 +39,7 @@ No hospitalizations over age 12 or deaths at any age have been attributed to the
 | Current    | 0                     |
 | Cumulative | 0                     |
 
-## Data from Card KC3
+## Card KC3
 
 ### Title
 
@@ -57,4 +57,28 @@ Disease Characteristics:
 Reservoir: 
 - Similar H9N2 detected in wild avian populations
 - Unknown for poultry
+
+## Card KC4
+
+### Title
+
+PROFILE – GREY LAND
+
+### Text
+
+Political factors:
+- System: Democracy
+- International relations: Collaborative
+- Transparency index: Good
+
+Demographic factors
+- Population: 18M
+- Population over age 65: 20%
+- Population under age 14: 11%
+
+Socioeconomic factors 
+- Income: medium
+- Relative poverty: low
+- Unemployment rate: low-medium
+- Health systems:  effective, good accessibility and medium inequality
 
