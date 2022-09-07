@@ -39,5 +39,17 @@ No hospitalizations over age 12 or deaths at any age have been attributed to the
 | Current    | 0                     |
 | Cumulative | 0                     |
 
+## Data from Card KC3
 
+### Text
+Type: Influenza A H9N2
+
+Disease Characteristics:
+- Onset: 7 days (estimated mean)
+- Acute symptoms: mild to severe, typical of influenza; more serious forms involve bronchitis, pneumonia, dehydration, febrile convulsions
+- Duration: 7 days (estimated mean)
+
+Reservoir: 
+- Similar H9N2 detected in wild avian populations
+- Unknown for poultry
 
