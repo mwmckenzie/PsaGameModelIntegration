@@ -127,9 +127,11 @@ Home tests for influenza are widely available but may not detect H9N2 infections
 
 Maybe?
 
-## Card KC
+## Card KC8
 
 ### Title
+
+PREDICTION – HOSPITALIZATION CAPACITY
 
 ### Text
 
@@ -139,5 +141,22 @@ Based on the data available four plausible scenarios have been analyzed for poss
 
 ![image](https://user-images.githubusercontent.com/57882845/188958265-d91d1248-d231-41a9-9be5-29d045d495d1.png)
 
+## Data From Card KC8
 
+### Peak Hospitalizations
+
+> Note: Blue Land
+
+| Severity/Transmissibility | Peak Hospitalizations | Per  |
+|---------------------------|-----------------------|------|
+| Low/Low                   | 11                    | 100k |
+| Low/High                  | 13                    | 100k |
+| High/Low                  | 29                    | 100k |
+| High/High                 | 42                    | 100k |
+
+### Estimated Surge Capacity
+
+| Peak Hospitalizations | Per  |
+|-----------------------|------|
+| 26                    | 100k |
 
