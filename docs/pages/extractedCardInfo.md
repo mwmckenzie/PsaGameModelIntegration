@@ -137,7 +137,7 @@ Based on the data available four plausible scenarios have been analyzed for poss
 
 ### Graph
 
-![image](https://user-images.githubusercontent.com/57882845/188958180-966ea148-27c3-4928-afb5-3e92c8366756.png)
+![image](https://user-images.githubusercontent.com/57882845/188958265-d91d1248-d231-41a9-9be5-29d045d495d1.png)
 
 
 
