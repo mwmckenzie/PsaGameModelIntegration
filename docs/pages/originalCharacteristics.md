@@ -1,6 +1,6 @@
 # PSA Game Original Characteristics
 
-## General Info
+## General Pathogen Info
 
 ### Pathogen
 Influenza A H9N2 
@@ -65,5 +65,11 @@ As a percent of all infections, sympotmatic and asymptomatic
 | 0.0050% | 2.000% |
 
 > Translates to 4% of symptomatic
+
+### Death proportion by age group
+
+|  Adults | <12 yo |
+|:-------:|:------:|
+| 0.0005% | 0.001% |
 
 
