@@ -2,7 +2,7 @@
 
 ## Model Schematic
 
-[SEIR Markov Chain Model](https://www.yworks.com/yed-live/?file=https://gist.githubusercontent.com/mwmckenzie/c7ee89cc532ac57354310d968da0c033/raw/e2df74012305af1acb257a37cad9ee0a36202459/SEIR%20Markov%20Chain%20Model)
+[SEIR Markov Chain Model](https://www.yworks.com/yed-live/?file=https://gist.githubusercontent.com/mwmckenzie/3c262e64cd7e4424b9fdc28e318504ea/raw/ab0337ed3f4d5ef35c59b76b47989b951c66b22e/SEIR%20Markov%20Chain%20Model)
 
 ## Initial Parameter Testing
 
