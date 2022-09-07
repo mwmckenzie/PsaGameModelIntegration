@@ -156,7 +156,38 @@ Based on the data available four plausible scenarios have been analyzed for poss
 
 ### Estimated Surge Capacity
 
+> Note: Blue Land
+
 | Peak Hospitalizations | Per  |
 |-----------------------|------|
 | 26                    | 100k |
 
+## Card KC9
+
+### Title
+
+PROFILE - AIR TRAVEL
+
+### Text
+
+On average week, 22,500 people take three-hour direct flights from Grey Land to Blue Land, primarily for business.
+
+In two weeks, we expect a 23% increase in travel from Grey Land to Blue Land for a four-day holiday.
+
+## Data From Card KC9
+
+### Visitation Rates
+
+| Visitors (Total) | Per  |
+|------------------|------|
+| 22,500           | week |
+
+### Holiday Visitation Modifier
+
+- Visitors from Grey to Blue incease by 23% on (some) holidays
+- Weekly correction should be:
+  - (Rate * 0.23 * 4/7) + Rate
+
+| Visitors (Total) | Per  |
+|------------------|------|
+| 25,457           | week |
