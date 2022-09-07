@@ -186,7 +186,7 @@ In two weeks, we expect a 23% increase in travel from Grey Land to Blue Land for
 
 - Visitors from Grey to Blue incease by 23% on (some) holidays
 - Weekly correction should be:
-  - (Rate * 0.23 * 4/7) + Rate
+  > (Rate * 0.23 * 4/7) + Rate
 
 | Visitors (Total) | Per  |
 |------------------|------|
