@@ -66,3 +66,13 @@
 
 ## Transmission Rates
 
+| Description                    | Variable                 |
+|--------------------------------|--------------------------|
+| Symptomatic Transmission Rate  | sympTransmissionRate     |
+| Asymptomatic Transmission Rate | asympTransmissionRate    |
+| Hospital Transmission Rate     | hospitalTransmissionRate |
+| Critical Transmission Rate     | criticalTransmissionRate |
+| Visitor Transmission Rat       | visitorTransmissionRate  |
+
+## Testing Rates
+
