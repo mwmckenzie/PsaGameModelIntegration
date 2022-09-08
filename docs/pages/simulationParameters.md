@@ -47,11 +47,11 @@
 
 ### Example
 
-To calculate the conversion rate for the transition from exposed to infectious with an expected mean duproportionn of 6 days:
+To calculate the conversion rate for the transition from exposed to infectious with an expected mean duration of 6 days:
 
 ```
 Step = 1
-Mean Duproportionn = 6
+Mean Duration = 6
 Conversion Rate = 0.1666667
 ```
 
@@ -71,8 +71,6 @@ Conversion Rate = 0.1666667
 - Vaccinated To Susceptible Rate
 
 ## Type Proportions
-
-
 
 ### Discussion
 
