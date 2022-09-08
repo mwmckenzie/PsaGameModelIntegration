@@ -9,6 +9,7 @@
 ## Modeling & Simulation Pages
 
 - [Simulation Parameters](/docs/pages/simulationParameters.md)
+- [Model Variables](/docs/pages/variables.md)
 - [Early Results](/docs/pages/earlyResults.md)
 
 ## Discussion Pages
