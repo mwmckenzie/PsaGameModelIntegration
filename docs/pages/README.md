@@ -7,9 +7,11 @@
 - [Data Extracted from PSA Game Cards](/docs/pages/extractedCardInfo.md)
 
 ## Modeling & Simulation Pages
+
 - [Simulation Parameters](/docs/pages/simulationParameters.md)
 - [Early Results](/docs/pages/earlyResults.md)
-- 
+
 ## Discussion Pages
+
 - [Player Facing Information](/docs/pages/playerFacingInfo.md)
 
