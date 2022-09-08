@@ -55,6 +55,11 @@ Mean Duproportionn = 6
 Conversion Rate = 0.1666667
 ```
 
+### UI Calculation Tool
+
+<img src="https://user-images.githubusercontent.com/57882845/189082597-236c8009-a000-49a7-a292-388d4fd0ddbd.png" width="400">
+</img>
+
 ### Simulated State Conversion Rates
 
 - Exposed To Infectious Rate 
