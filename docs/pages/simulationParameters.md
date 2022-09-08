@@ -43,15 +43,15 @@
 
 ### Method
 
-`Conversion Rate = Step / Mean Duration`
+`Conversion Rate = Step / Mean Duproportionn`
 
 ### Example
 
-To calculate the conversion rate for the transition from exposed to infectious with an expected mean duration of 6 days:
+To calculate the conversion rate for the transition from exposed to infectious with an expected mean duproportionn of 6 days:
 
 ```
 Step = 1
-Mean Duration = 6
+Mean Duproportionn = 6
 Conversion Rate = 0.1666667
 ```
 
@@ -65,34 +65,34 @@ Conversion Rate = 0.1666667
 - Recovered To Susceptible Rate 
 - Vaccinated To Susceptible Rate
 
-## Type Ratios
+## Type Proportions
 
 ### Discussion
 
 - The probability of a member being assigned to a distinct type.
-- The ratio should only represent the expected distribution of the values being compared, not universal or global distrubtions or ratios.
+- The proportion should only represent the expected distribution of the values being compared, not universal or global distrubtions or proportions.
 - Simply, how many of type A do you expect per type B?
 
 ### Method
 
-`Type Ratio = Expected Value Type A / Expected Value Type B`
+`Type Proportion = Expected Value Type A / Expected Value Type B`
 
 ### Example
 
-To calculate and asymptomatic To symptomatic ratio with expected values of 1 to 9:
+To calculate and asymptomatic To symptomatic proportion with expected values of 1 to 9:
 
 ```
 Step = 1
-Mean Duration = 6
+Mean Duproportionn = 6
 Conversion Rate = 0.1666667
 ```
 
-### Simulated Type Ratios
+### Simulated Type Proportions
 
-- Hospitalization To Non-Hospitalization Ratio 
-- Asymptomatic To Symptomatic Ratio 
-- Critical To Non-Critical Hospitalization Ratio 
-- Deceased To Critical Case Recovery Ratio 
+- Hospitalization To Non-Hospitalization Proportion 
+- Asymptomatic To Symptomatic Proportion 
+- Critical To Non-Critical Hospitalization Proportion 
+- Deceased To Critical Case Recovery Proportion 
 
 ## Transmission Rates
 - Symptomatic Transmission Rate 
