@@ -97,6 +97,19 @@ Type Proportion = Expected Value Type A / Per
 
 ### Example
 
+#### Ratio
+
+To calculate asymptomatic proportion with an expected ratio of 1:3 asymptomatic to symptomatic:
+
+```
+Value A = 1
+Value B = 3
+Per = 4
+Type Proportion = 0.25
+```
+
+#### Proportion
+
 To calculate asymptomatic proportion with expected values of 5 per 100:
 
 ```
