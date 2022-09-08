@@ -67,10 +67,7 @@ Conversion Rate = 0.1666667
 
 ## Type Proportions
 
-### Type Proportion Calculation Tool
 
-<img src="https://user-images.githubusercontent.com/57882845/189080349-73174880-78c6-4cc1-8085-1b380e553bac.png" width="400">
-</img>
 
 ### Discussion
 
@@ -90,17 +87,26 @@ Conversion Rate = 0.1666667
 
 ### Method
 
-`Type Proportion = Expected Value Type A / Expected Value Type B`
+```
+Per = Expected Value Type A + Expected Value Type B
+Type Proportion = Expected Value Type A / Per
+```
 
 ### Example
 
-To calculate and asymptomatic To symptomatic proportion with expected values of 1 to 9:
+To calculate asymptomatic proportion with expected values of 5 per 100:
 
 ```
-Step = 1
-Mean Duproportionn = 6
-Conversion Rate = 0.1666667
+Value A = 5
+Per = 100
+Value B = 95
+Type Proportion = 0.05
 ```
+
+### UI Calculation Tool
+
+<img src="https://user-images.githubusercontent.com/57882845/189080349-73174880-78c6-4cc1-8085-1b380e553bac.png" width="400">
+</img>
 
 ### Simulated Type Proportions
 
