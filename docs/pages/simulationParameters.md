@@ -1,6 +1,30 @@
 # Simulation Parameters
 
+> Note: Currently all probability calculations sample from a uniform distribution
+
+## Global Variables
+
+### Population
+
+> Current Value: 100,000
+
+- Integer
+- Count of all exisiting entities within a simulation context
+- Context defined by distinct and complete simulation loop space
+- Generally represented in increments of 1,000, 10,000, 100,000
+
+### Step
+
+> Current Value: 1 day
+
+- Integer
+- Increments by 1 for every step of the simulation
+- Generally represents a parcel of time, e.g. 1 day, 1 week, 12 hours, etc
+
 ## Conversion Rates
+
+### Method
+Conversion rate = Step / Mean Duration
 
 - Exposed To Infectious Rate 
 - Symptomatic Recovery Rate 
