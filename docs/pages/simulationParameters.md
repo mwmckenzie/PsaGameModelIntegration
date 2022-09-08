@@ -11,7 +11,10 @@
 - Integer
 - Count of all exisiting entities within a simulation context
 - Context defined by distinct and complete simulation loop space
-- Generally represented in increments of 1,000, 10,000, 100,000
+- Common values: 
+  - 1,000
+  - 10,000
+  - 100,000
 
 ### Step
 
@@ -19,7 +22,16 @@
 
 - Integer
 - Increments by 1 for every step of the simulation
-- Generally represents a parcel of time, e.g. 1 day, 1 week, 12 hours, etc
+- Generally represents a parcel of time
+- Common values: 
+  - 1 day
+  - 1 hour
+  - 6 hours
+  - 12 hours
+- Less common:
+  - 1 week
+  - 1 month
+  - 1 year
 
 ## Conversion Rates
 
