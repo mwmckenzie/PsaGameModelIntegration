@@ -67,11 +67,26 @@ Conversion Rate = 0.1666667
 
 ## Type Proportions
 
+### Type Proportion Calculation Tool
+
+![image](https://user-images.githubusercontent.com/57882845/189080172-f42aa8ae-ac7b-4160-8fca-f29dd5f815ee.png)
+
+
 ### Discussion
 
 - The probability of a member being assigned to a distinct type.
 - The proportion should only represent the expected distribution of the values being compared, not universal or global distrubtions or proportions.
+- Can be calculated via one of two input methods:
+  - Ratio
+  - Proportion
+
+### Ratio
+
 - Simply, how many of type A do you expect per type B?
+
+### Proportion
+
+- Percentage or number of type A per total of type A and type B
 
 ### Method
 
