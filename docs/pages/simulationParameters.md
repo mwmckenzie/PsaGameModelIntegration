@@ -69,7 +69,7 @@ Conversion Rate = 0.1666667
 
 ### Type Proportion Calculation Tool
 
-<img src="[image.png](https://user-images.githubusercontent.com/57882845/189080349-73174880-78c6-4cc1-8085-1b380e553bac.png)" width="200" height="100">
+<img src="https://user-images.githubusercontent.com/57882845/189080349-73174880-78c6-4cc1-8085-1b380e553bac.png" width="400">
 </img>
 
 ### Discussion
