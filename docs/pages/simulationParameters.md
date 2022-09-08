@@ -45,7 +45,14 @@ A value of 1 indicates an instant conversion.
 
 ### Method
 
-Conversion rate = Step / Mean Duration
+`Conversion Rate = Step / Mean Duration`
+
+### Example
+
+```
+Mean Duration = 6
+Conversion Rate = 0.1666667
+```
 
 ### Simulated State Conversion Rates
 
@@ -58,6 +65,21 @@ Conversion rate = Step / Mean Duration
 - Vaccinated To Susceptible Rate
 
 ## Type Ratios
+
+### Discussion
+
+The probability of a member being assigned to a distinct type.
+
+A lower value generally indicates a slower conversion rate, as there is a lower probability for transition at each step.
+
+A value of 1 indicates an instant conversion.
+
+### Method
+
+`Conversion Rate = Step / Mean Duration`
+
+### Simulated Type Ratios
+
 - Hospitalization To Non-Hospitalization Ratio 
 - Asymptomatic To Symptomatic Ratio 
 - Critical To Non-Critical Hospitalization Ratio 
