@@ -37,11 +37,9 @@
 
 ### Discussion
 
-The probability of a member to undergo state change per simulation step.
-
-A lower value generally indicates a slower conversion rate, as there is a lower probability for transition at each step.
-
-A value of 1 indicates an instant conversion.
+- The probability of a member to undergo state change per simulation step.
+- A lower value generally indicates a slower conversion rate, as there is a lower probability for transition at each step.
+- A value of 1 indicates an instant conversion.
 
 ### Method
 
@@ -49,7 +47,10 @@ A value of 1 indicates an instant conversion.
 
 ### Example
 
+To calculate the conversion rate for the transition from exposed to infectious with an expected mean duration of 6 days:
+
 ```
+Step = 1
 Mean Duration = 6
 Conversion Rate = 0.1666667
 ```
@@ -68,15 +69,23 @@ Conversion Rate = 0.1666667
 
 ### Discussion
 
-The probability of a member being assigned to a distinct type.
-
-A lower value generally indicates a slower conversion rate, as there is a lower probability for transition at each step.
-
-A value of 1 indicates an instant conversion.
+- The probability of a member being assigned to a distinct type.
+- The ratio should only represent the expected distribution of the values being compared, not universal or global distrubtions or ratios.
+- Simply, how many of type A do you expect per type B?
 
 ### Method
 
-`Conversion Rate = Step / Mean Duration`
+`Type Ratio = Expected Value Type A / Expected Value Type B`
+
+### Example
+
+To calculate and asymptomatic To symptomatic ratio with expected values of 1 to 9:
+
+```
+Step = 1
+Mean Duration = 6
+Conversion Rate = 0.1666667
+```
 
 ### Simulated Type Ratios
 
