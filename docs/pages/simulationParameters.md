@@ -35,8 +35,19 @@
 
 ## Conversion Rates
 
+### Discussion
+
+The probability of a member to undergo state change per simulation step.
+
+A lower value generally indicates a slower conversion rate, as there is a lower probability for transition at each step.
+
+A value of 1 indicates an instant conversion.
+
 ### Method
+
 Conversion rate = Step / Mean Duration
+
+### Simulated State Conversion Rates
 
 - Exposed To Infectious Rate 
 - Symptomatic Recovery Rate 
