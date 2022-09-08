@@ -6,8 +6,10 @@
 - [Original Game Configuration and Setting](/docs/pages/gameConfiguration.md)
 - [Data Extracted from PSA Game Cards](/docs/pages/extractedCardInfo.md)
 
-## Discussion Pages
-
-- [Early Results](/docs/pages/earlyResults.md)
-- [Player Facing Information](/docs/pages/playerFacingInfo.md)
+## Modeling & Simulation Pages
 - [Simulation Parameters](/docs/pages/simulationParameters.md)
+- [Early Results](/docs/pages/earlyResults.md)
+- 
+## Discussion Pages
+- [Player Facing Information](/docs/pages/playerFacingInfo.md)
+
