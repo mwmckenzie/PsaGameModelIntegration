@@ -18,20 +18,27 @@
 
 ### Step
 
-> Current Value: 1 day
+> Current Value: 1
 
 - Integer
 - Increments by 1 for every step of the simulation
+
+### StepDuration
+
+> Current Value: 1.0
+
+- Float
 - Generally represents a parcel of time
-- Common values: 
-  - 1 day
-  - 1 hour
-  - 6 hours
-  - 12 hours
-- Less common:
-  - 1 week
-  - 1 month
-  - 1 year
+- Proportional to 1 day
+- Common values:
+ 
+| Value | Duration |
+|-------|----------|
+| 1.0   | 1 day    |
+| .25   | 6 hours  |
+| .5    | 12 hours |
+| 7.0   | 1 week   |
+| 365.0 | 1 year   |
 
 ## Conversion Rates
 
@@ -43,7 +50,7 @@
 
 ### Method
 
-`Conversion Rate = Step / Mean Duproportionn`
+`Conversion Rate = Step / Mean Duration`
 
 ### Example
 
