@@ -11,5 +11,5 @@
 > 06 SEP 2022
 
 - [PSA Game Simulation Parameters](/json/parameters/SeirModelParams_PsaGame_2022-09-06-1049.json)
-- 
+
 - [Charts and Graphs](https://app.powerbi.com/view?r=eyJrIjoiYjYxNzI1NzgtNGM1Yi00NWU0LThjZjYtMTgwYjQ3NmQ0Y2QzIiwidCI6ImU3MGJkMWNmLTM0OTEtNGNmNy1iYWYyLTViMWE0N2IzOWY0NCIsImMiOjF9)
