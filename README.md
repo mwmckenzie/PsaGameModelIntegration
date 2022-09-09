@@ -4,12 +4,8 @@
 
 ## Directory
 
-[Document Pages](/docs/pages/README.md)
-
-[Images](/docs/img)
-
-[PDF Reports and Chart Collections](/docs/pdf)
-
-[Video Clips and Movies](/docs/mp4)
-
-[GIFs](/docs/gif)
+- [Document Pages](/docs/pages/README.md)
+- [Images](/docs/img)
+- [PDF Reports and Chart Collections](/docs/pdf)
+- [Video Clips and Movies](/docs/mp4)
+- [GIFs](/docs/gif)
