@@ -12,4 +12,5 @@
 
 - [PSA Game Simulation Parameters](/json/parameters/SeirModelParams_PsaGame_2022-09-06-1049.json)
 
+<iframe title="DemoSeirModelDataVis_20220908 - Hospitalizations" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjYxNzI1NzgtNGM1Yi00NWU0LThjZjYtMTgwYjQ3NmQ0Y2QzIiwidCI6ImU3MGJkMWNmLTM0OTEtNGNmNy1iYWYyLTViMWE0N2IzOWY0NCIsImMiOjF9" frameborder="0" allowFullScreen="true"></iframe>
 - [Charts and Graphs](https://app.powerbi.com/view?r=eyJrIjoiYjYxNzI1NzgtNGM1Yi00NWU0LThjZjYtMTgwYjQ3NmQ0Y2QzIiwidCI6ImU3MGJkMWNmLTM0OTEtNGNmNy1iYWYyLTViMWE0N2IzOWY0NCIsImMiOjF9)
