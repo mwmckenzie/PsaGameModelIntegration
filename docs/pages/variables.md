@@ -12,14 +12,14 @@
 | Recovered To Susceptible Rate  | recoveredToSusceptibleRate  |
 | Vaccinated To Susceptible Rate | vaccinatedToSusceptibleRate |
 
-## Type Ratios
+## Type Proportions
 
 | Description                                    | Variable                     |
 |------------------------------------------------|------------------------------|
-|  Hospitalization To Non-Hospitalization Ratio  | hospToNonHospRatio           |
-|        Asymptomatic To Symptomatic Ratio       | asympToSympRatio             |
-| Critical To Non-Critical Hospitalization Ratio | criticalToHospRatio          |
-| Deceased To Critical Case Recovery Ratio       | deceasedToCriticalRecovRatio |
+|  Hospitalization To Non-Hospitalization Proportion  | hospToNonHospProportion           |
+|        Asymptomatic To Symptomatic Proportion       | asympToSympProportion             |
+| Critical To Non-Critical Hospitalization Proportion | criticalToHospProportion          |
+| Deceased To Critical Case Recovery Proportion       | deceasedToCriticalRecovProportion |
 
 
 ## Transmission Rates
@@ -30,7 +30,7 @@
 | Asymptomatic Transmission Rate | asympTransmissionRate    |
 | Hospital Transmission Rate     | hospitalTransmissionRate |
 | Critical Transmission Rate     | criticalTransmissionRate |
-| Visitor Transmission Rat       | visitorTransmissionRate  |
+| Visitor Transmission Rate       | visitorTransmissionRate  |
 
 ## Testing Rates
 
