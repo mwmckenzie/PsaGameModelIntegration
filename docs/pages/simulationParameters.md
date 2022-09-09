@@ -30,13 +30,14 @@
 - Float
 - Generally represents a parcel of time
 - Proportional to 1 day
-- Common values:
- 
+
+#### Common values
+
 | Value | Duration |
 |-------|----------|
 | 1.0   | 1 day    |
-| .25   | 6 hours  |
-| .5    | 12 hours |
+| 0.25  | 6 hours  |
+| 0.5   | 12 hours |
 | 7.0   | 1 week   |
 | 365.0 | 1 year   |
 
@@ -44,21 +45,22 @@
 
 ### Discussion
 
-- The probability of a member to undergo state change per simulation step.
+- The probability for each element of a population to undergo the associated state change. 
+- Probability is calculated per simulation step.
 - A lower value generally indicates a slower conversion rate, as there is a lower probability for transition at each step.
 - A value of 1 indicates an instant conversion.
 
 ### Method
 
-`Conversion Rate = Step / Mean Duration`
+`Conversion Rate = Step Duration / Mean Duration`
 
 ### Example
 
 To calculate the conversion rate for the transition from exposed to infectious with an expected mean duration of 6 days:
 
 ```
-Step = 1
-Mean Duration = 6
+Step Duration = 1.0
+Mean Duration = 6.0
 Conversion Rate = 0.1666667
 ```
 
