@@ -77,7 +77,7 @@ Conversion Rate = 0.1666667
 
 ### UI Calculation Tool
 
-> Note: Blue bar and associated value used only for comparing same-type values
+> Note: Blue bar and associated value used only for relative comparison of parameters
 
 <img src="https://user-images.githubusercontent.com/57882845/189082597-236c8009-a000-49a7-a292-388d4fd0ddbd.png" width="400">
 </img>
@@ -148,7 +148,7 @@ Type Proportion = 0.05
 
 ### UI Calculation Tool
 
-> Note: Blue bar and associated value used only for comparing same-type values
+> Note: Blue bar and associated value used only for relative comparison of parameters
 
 <img src="https://user-images.githubusercontent.com/57882845/189080349-73174880-78c6-4cc1-8085-1b380e553bac.png" width="400">
 </img>
@@ -188,8 +188,6 @@ Transmission Rate = 0.505
 ```
 
 ### UI Calculation Tool
-
-> Note: Blue bar and associated value used only for comparing same-type values
 
 <img src="https://user-images.githubusercontent.com/57882845/189477245-57ccdd6f-dd5b-4970-a05c-478c29897909.png" width="400">
 </img>
