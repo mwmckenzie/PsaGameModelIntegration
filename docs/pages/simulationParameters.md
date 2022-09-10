@@ -2,7 +2,7 @@
 
 > Note: Currently all probability calculations sample from a uniform distribution
 
-## Index
+## Parameter Sections
 - [Conversion Rate](#conversion-rate)
 - [Split Type Proportion](#Split-Type-Proportion)
 - [Transmission Rate](#transmission-rate)
