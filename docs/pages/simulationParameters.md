@@ -164,7 +164,7 @@ Type Proportion = 0.05
 
 ### Discussion
 
-- Equivalent to the 'beta' value
+- Equivalent to the 'beta' for each associated group/set
 - Susecptibility per contact multiplied by the expected contact count per step
 - Expected contact count per step calculated by the total expected close contacts per infectious period divided by the length of the period of infectiousness
 
