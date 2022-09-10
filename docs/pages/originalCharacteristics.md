@@ -24,6 +24,8 @@ Mild to severe flu symptoms
 
 ### Latency Period
 
+> Period before infectious
+
 |              | Adults > 12 | <12 yo |      |
 |--------------|:-----------:|:------:|------|
 | Symptomatic  |           6 |      4 | days |
@@ -31,6 +33,8 @@ Mild to severe flu symptoms
 
 
 ### Infectious Period
+
+> How long infectious
 
 |              | Adults > 12 | <12 yo |      |
 |--------------|:-----------:|:------:|------|
@@ -45,7 +49,8 @@ Mild to severe flu symptoms
 |            |   12% |    50% |
 
 ### Incubation period
-Infection to symptoms
+
+> Infection to symptoms
 
 | Adults > 12 | <12 yo |      |
 |:-----------:|:------:|------|
