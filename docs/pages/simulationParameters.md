@@ -2,6 +2,9 @@
 
 > Note: Currently all probability calculations sample from a uniform distribution
 
+## Index
+[Transmission Rate](#transmission-rate)
+
 ## Global Variables
 
 ### Population
