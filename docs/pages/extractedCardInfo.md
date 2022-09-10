@@ -3,7 +3,7 @@
 ## Card KC1
 
 ### Title
-REPORT -HEALTHCARE
+REPORT - HEALTHCARE
 
 ### Text
 
