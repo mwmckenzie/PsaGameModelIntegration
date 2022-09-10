@@ -148,8 +148,6 @@ Type Proportion = 0.05
 
 ### UI Calculation Tool
 
-> Note: Blue bar and associated value used only for relative comparison of parameters
-
 <img src="https://user-images.githubusercontent.com/57882845/189080349-73174880-78c6-4cc1-8085-1b380e553bac.png" width="400">
 </img>
 
@@ -188,6 +186,8 @@ Transmission Rate = 0.505
 ```
 
 ### UI Calculation Tool
+
+> Note: Blue bar and associated value used only for relative comparison of parameters
 
 <img src="https://user-images.githubusercontent.com/57882845/189477245-57ccdd6f-dd5b-4970-a05c-478c29897909.png" width="400">
 </img>
