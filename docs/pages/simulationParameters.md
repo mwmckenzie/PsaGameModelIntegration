@@ -6,7 +6,8 @@
 - [Conversion Rate](#conversion-rate)
 - [Split Type Proportion](#Split-Type-Proportion)
 - [Transmission Rate](#transmission-rate)
-- 
+- [Testing Rate](#Testing-Rate)
+- [False Test Result Rate](#False-Test-Result-Rate)
 
 ## Global Variables
 
@@ -194,7 +195,7 @@ Transmission Rate = 0.505
 - Critical Transmission Rate 
 - Visitor Transmission Rate 
 
-## Testing Rates
+## Testing Rate
 
 | Type  | Min | Max |
 |-------|-----|-----|
@@ -209,7 +210,7 @@ Transmission Rate = 0.505
 - Recovered Testing Rate 
 - Vaccinated Testing Rate 
 
-## False Test Result Rates
+## False Test Result Rate
 
 | Type  | Min | Max |
 |-------|-----|-----|
