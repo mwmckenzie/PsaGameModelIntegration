@@ -185,7 +185,8 @@ Transmission Rate = 0.505
 
 ### UI Calculation Tool
 
-![image](https://user-images.githubusercontent.com/57882845/189477245-57ccdd6f-dd5b-4970-a05c-478c29897909.png)
+<img src="https://user-images.githubusercontent.com/57882845/189477245-57ccdd6f-dd5b-4970-a05c-478c29897909.png" width="400">
+</img>
 
 ### Simulated Transmission Rates
 
