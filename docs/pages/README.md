@@ -15,4 +15,4 @@
 ## Discussion Pages
 
 - [Player Facing Information](/docs/pages/playerFacingInfo.md)
-
+- [Current Discussion Points](/docs/pages/discussionPointsSummary.md)
