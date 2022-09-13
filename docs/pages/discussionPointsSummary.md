@@ -1,4 +1,6 @@
-# Discussion Points Summaries and Notes
+# Discussion Points and Notes
+
+#### Updated: 13 Sep 2022
 
 ## A Potential Approach to Lower Susceptibility in Adults
 
@@ -25,7 +27,26 @@
 - We do not need to split populations and create an interaction/mixing matrix
 - I think it is a nice approximation of the natural problem
 
+## Disease Transmission and Susceptible Availability
 
+### Limitations of Current Approach
+
+- Currently if a transmission is caclulated to occur and there is a susceptible person available transmission occurs
+- This is irregardless of how rare susceptible persons are within the population
+- This strikes me as a flawed approach for multiple reasons
+
+### Possible Flaws in the Availability Model
+
+- For every potential transmission contact event it stands to reason that the probability of the events recipient being susceptible would be proportional to the number of susceptible persons within the total population
+- The disease should have an easier time spreading within a largely susceptible population and a harder time as the target pool shrinks
+- The current model does not do this, it provides a uniform degree of spreading difficulty to the model at all ratios of susceptible-to-non-susceptible (currently there is no difficulty beyond the initial beta value)
+
+### Potential Approaches
+
+- The transmission rate probability could be modified by a factor of the proportional to the number of susceptible persons within the total population
+- To begin with, we could test a linear model of susceptible availability to apply against the transmission opportunities
+- This number could have an exponential parameter that would further allow for modeling population density factors
+- An exponential paramater > 0 and < 1 for higher density populations, and > 1 for lower density (that might be backwards...)
 
 ## Missing or Unclear Parameter Information
 
