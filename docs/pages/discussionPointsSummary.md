@@ -4,7 +4,7 @@
 
 ## A Potential Approach to Lower Susceptibility in Adults
 
-### A Percentage of the Adult Population Starting as Recovered
+### Start a Percentage of the Adult Population as Recovered
 
 - To model a large portion of the adult population having immunity through childhood infections, we can divide the population based on expected childhood disease rates
 - If the adult susceptibility is expected to be 30% as a proportion of the population *not* infected as children, then 70% of the adult population can be set to recovered as an initial condition
@@ -48,6 +48,12 @@
 - This number could have an exponential parameter that would further allow for modeling population density factors
 - An exponential paramater > 0 and < 1 for higher density populations, and > 1 for lower density (that might be backwards...)
 
+### Comparisons of Results
+
+- Graphs and reports to follow soon
+
+> Check back in a few days!
+
 ## Missing or Unclear Parameter Information
 
 ### Hospitalizations and Critical Cases
@@ -65,5 +71,32 @@
 ### No Possiblity of Fatalities in Current Model
 
 - Case fatalities are channeled through the critical case pathway in the Markov chain model
-- With a 0% probability for critical cases there will be no elements of the population checked against the fatality rate probability
+- With a 0% probability for critical cases there will be no elements of the population transitioned to critical and no transition tests for fatalities
+- This then makes any parameters (and associated game info) for fatality rates moot/pointless
+
+### Recommendation
+
+- If fatality rate is not meant to be a 'red herring' then we should consider introducing a critical case rate
+
+## Taking Advantage of Markov Processes
+
+### Defining Probabilities at Each Step
+
+- Breaking up the problem into discrete and distinct Markov chain element allows us to design and define probabilities in a more meaningful manner
+- For instance, we can define the probability of being symptomatic purely by the split between symptomatic vs asymptomatic
+
+### Seperation of Concerns
+
+- Looking to the previous problem, we can deal with each issue seperately
+- We can ask the questions in a natural sequence: 
+  - If infectious what is the chance of being hospitalized?
+  - If hospitalized what is the chance of being critical?
+  - If critical what is the chance of dying?
+
+### Easier to Address Unsatisfactory Model/Simulation Results
+
+- With this approach, if we are unhappy with the simulation results for a particular field, we can more easily adjust towards the desired outcome
+- Additionally, as we can very easily see downstream probabilities in the hierarchy, we will know what nodes will need to be counter-adjusted to offset any correction
+
+
 
