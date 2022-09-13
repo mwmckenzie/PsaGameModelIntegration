@@ -37,7 +37,7 @@
 
 ### Possible Flaws in the Availability Model
 
-- For every potential transmission contact event it stands to reason that the probability of the events recipient being susceptible would be proportional to the number of susceptible persons within the total population
+- For every potential transmission contact event, it stands to reason that the probability of the event recipient being susceptible would be proportional to the number of susceptible persons within the total population
 - The disease should have an easier time spreading within a largely susceptible population and a harder time as the target pool shrinks
 - The current model does not do this, it provides a uniform degree of spreading difficulty to the model at all ratios of susceptible-to-non-susceptible (currently there is no difficulty beyond the initial beta value)
 
@@ -78,6 +78,16 @@
 
 - If fatality rate is not meant to be a 'red herring' then we should consider introducing a critical case rate
 
+### Expected Contact Counts Missing and Unclear
+
+- What are the expected contact rates (per infection period)?
+- Currently the simulation is using the household size as the expected contact rate
+- I do not believe this makes sense, though, given the expectation that the majority of adults are immune, as at least 1 person per household is then likely to be immune
+
+### Parameter Needed
+
+- What are the expected internal and external transimission-capable contact counts? (per infection period)
+
 ## Taking Advantage of Markov Processes
 
 ### Defining Probabilities at Each Step
@@ -99,4 +109,21 @@
 - Additionally, as we can very easily see downstream probabilities in the hierarchy, we will know what nodes will need to be counter-adjusted to offset any correction
 
 
+## Scale Across the Game Parameters and Data
+
+### Numbers Too Small To Model
+
+- Take for example the number of travelers to Blue Land
+- If we have 22,000 travelers from a population of 18,000,000 that is about 122 in 100,000 traveling, or 0.12% of the population
+- In the current model we could have an asymptomatic load of perhaps 300 per 100,000 on day 70
+- That leaves a likelihood of being asymptomatic of about 0.3%
+- Assuming an equal likelihood of asymptomatic persons in the traveler vs non-traveler population, this then indicates a likelihood of an asymptomatic traveler of about .002% 
+- This number is per week
+- If we then transform this per day we are left with a 0.0002% chance of a traveler being asymptomatic
+
+### The Fluxuations in Travelers Doesn't Change The Problem
+
+- With such a small probability of sick traveler -- around .0002% -- a relatively small change in traveler numbers is unlikely to change the problem
+- If the number of travelers increases to 25,000 per week (though the number changed in the card is smaller as it only accounts for a four day change) the final expected probability does not change
+- The final change to the probability calculation is less than the value of the rounding error
 
