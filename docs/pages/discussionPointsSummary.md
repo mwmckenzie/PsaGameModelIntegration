@@ -43,7 +43,7 @@
 
 ### Potential Approaches
 
-- The transmission rate probability could be modified by a factor of the proportional to the number of susceptible persons within the total population
+- The transmission rate probability could be modified by a factor of the proportion of susceptible persons within the total population
 - To begin with, we could test a linear model of susceptible availability to apply against the transmission opportunities
 - This number could have an exponential parameter that would further allow for modeling population density factors
 - An exponential paramater > 0 and < 1 for higher density populations, and > 1 for lower density (that might be backwards...)
@@ -60,4 +60,10 @@
 ### 0% Probability for Critical Cases?
 
 - Currently the probability for critical cases is set to 0%
+- This is, naturally, created results with zero critical cases
+
+### No Possiblity of Fatalities in Current Model
+
+- Case fatalities are channeled through the critical case pathway in the Markov chain model
+- With a 0% probability for critical cases there will be no elements of the population checked against the fatality rate probability
 
