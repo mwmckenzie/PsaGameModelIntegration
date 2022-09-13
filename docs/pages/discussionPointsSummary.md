@@ -111,7 +111,7 @@
 
 ## Scale Across the Game Parameters and Data
 
-### Numbers Too Small To Model
+### Some Numbers Are Too Small To Effectively Model
 
 - Take for example the number of travelers to Blue Land
 - If we have 22,000 travelers from a population of 18,000,000 that is about 122 in 100,000 traveling, or 0.12% of the population
@@ -121,9 +121,14 @@
 - This number is per week
 - If we then transform this per day we are left with a 0.0002% chance of a traveler being asymptomatic
 
-### The Fluxuations in Travelers Doesn't Change The Problem
+### Small Fluxuations in Traveler Numbers
 
-- With such a small probability of sick traveler -- around .0002% -- a relatively small change in traveler numbers is unlikely to change the problem
+- With such a small probability of sick travelers -- around .0002% -- a relatively small change in traveler numbers is unlikely to change the problem
 - If the number of travelers increases to 25,000 per week (though the number changed in the card is smaller as it only accounts for a four day change) the final expected probability does not change
 - The final change to the probability calculation is less than the value of the rounding error
 
+### Low Testing Capacity
+
+- A testing capacity maximum of 200 per population results in only 1 test *possible* per 100,000
+- The positive test results will never be higher than 1 in the simulation as a combination for *all* testing (if running the simulation at 100,000)
+- This does not allow for meaningful simulation
