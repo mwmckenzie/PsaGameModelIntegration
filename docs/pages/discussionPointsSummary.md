@@ -9,7 +9,7 @@
 - To model a large portion of the adult population having immunity through childhood infections, we can divide the population based on expected childhood disease rates
 - If the adult susceptibility is expected to be 30% as a proportion of the population *not* infected as children, then 70% of the adult population can be set to recovered as an initial condition
 
-### Set Very Low Recovery-to-Susceptible Transition Rates
+### Very Low Recovery-to-Susceptible Transition Rates
 
 - To mimic a decades long immunity we can set the recovery rate to 10, 25, or 50 years (or any other abitrary length of time)
 - This would still allow for the possibility of very rare second infections (with the rarity inversely proportional to the length of expected recovery to susceptible transition)
