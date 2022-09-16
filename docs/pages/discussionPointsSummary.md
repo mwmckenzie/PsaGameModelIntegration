@@ -32,7 +32,7 @@
 
 ### Limitations of Current Approach
 
-- Currently if a transmission is caclulated to occur and there is a susceptible person available transmission occurs
+- Currently if a transmission is calculated and there is a susceptible person available then a transmission always occurs
 - This is irregardless of how rare susceptible persons are within the population
 - This strikes me as a flawed approach for multiple reasons
 
@@ -40,14 +40,15 @@
 
 - For every potential transmission contact event, it stands to reason that the probability of the event recipient being susceptible would be proportional to the number of susceptible persons within the total population
 - The disease should have an easier time spreading within a largely susceptible population and a harder time as the target pool shrinks
-- The current model does not do this, it provides a uniform degree of spreading difficulty to the model at all ratios of susceptible-to-non-susceptible (currently there is no difficulty beyond the initial beta value)
+- The current model does not do this, it provides a uniform degree of spreading difficulty to the model at all ratios of susceptible-to-non-susceptible
+- Currently there is no difficulty change after the initial beta value is set
 
 ### Potential Approaches
 
 - The transmission rate probability could be modified by a factor of the proportion of susceptible persons within the total population
 - To begin with, we could test a linear model of susceptible availability to apply against the transmission opportunities
 - This number could have an exponential parameter that would further allow for modeling population density factors
-- An exponential paramater > 0 and < 1 for higher density populations, and > 1 for lower density (that might be backwards...)
+- An exponential paramater > 0 and < 1 for higher density populations, and > 1 for lower density (that might be backwards - it needs to be tested)
 
 ### Comparisons of Results
 
@@ -67,19 +68,20 @@
 ### 0% Probability for Critical Cases?
 
 - Currently the probability for critical cases is set to 0%
-- This is, naturally, created results with zero critical cases
+- This is, naturally, creating results with zero critical cases
 
 ### No Possiblity of Fatalities in Current Model
 
-- Case fatalities are channeled through the critical case pathway in the Markov chain model
-- With a 0% probability for critical cases there will be no elements of the population transitioned to critical and no transition tests for fatalities
-- This then makes any parameters (and associated game info) for fatality rates moot/pointless
+- Case fatalities are channeled through the critical case pathway in the Markov process model
+- With a 0% probability for critical cases there will be no elements of the population transitioned to critical
+- No critical cases result in no transition tests for fatality transitions
+- This then makes any of the current parameters (and associated game info) for fatality rates incorrect (the actual percentage is 0)
 
 ### Recommendation
 
 - If fatality rate is not meant to be a 'red herring' then we should consider introducing a critical case rate
 
-### Expected Contact Counts Missing and Unclear
+## Expected Contact Counts Missing and Unclear
 
 - What are the expected contact rates (per infection period)?
 - Currently the simulation is using the household size as the expected contact rate
@@ -93,7 +95,7 @@
 
 ### Defining Probabilities at Each Step
 
-- Breaking up the problem into discrete and distinct Markov chain element allows us to design and define probabilities in a more meaningful manner
+- Breaking up the problem into discrete and distinct Markov chain elements allows us to design and define probabilities in a more meaningful manner
 - For instance, we can define the probability of being symptomatic purely by the split between symptomatic vs asymptomatic
 
 ### Seperation of Concerns
