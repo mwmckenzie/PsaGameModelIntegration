@@ -128,9 +128,11 @@
 
 ### Small Fluxuations in Traveler Numbers
 
-- With such a small probability of sick travelers -- around .0002% -- a relatively small change in traveler numbers is unlikely to change the problem
-- If the number of travelers increases to 25,000 per week (though the number changed in the card is smaller as it only accounts for a four day change) the final expected probability does not change
-- The final change to the probability calculation is less than the value of the rounding error
+- With such a small probability of sick travelers -- around .000367% -- a relatively small change in traveler numbers is unlikely to change the problem
+- If the number of travelers increases to 25,000 per week (though the number changed in the card is smaller as it only accounts for a four day change) the final expected probability is 0.000417%
+- This does not appear to be a meaningful change, as the expected asymptomatic travelers remains less than 1 *per week*
+
+> This change results in 0.0917 expected asymptomatic travelers per week, or 0.013 asymptomatic travelers per day
 
 ### Low Testing Capacity
 
