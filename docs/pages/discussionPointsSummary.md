@@ -120,9 +120,11 @@
 - If we have 22,000 travelers from a population of 18,000,000 that is about 122 in 100,000 traveling, or 0.12% of the population
 - In the current model we could have an asymptomatic load of perhaps 300 per 100,000 on day 70
 - That leaves a likelihood of being asymptomatic of about 0.3%
-- Assuming an equal likelihood of asymptomatic persons in the traveler vs non-traveler population, this then indicates a likelihood of an asymptomatic traveler of about .002% 
-- This number is per week
-- If we then transform this per day we are left with a 0.0002% chance of a traveler being asymptomatic
+- Assuming a similar traveler to non-traveler ratio for both asymptomatic and non-asymptomatic populations, this then indicates the probability of an asymptomatic traveler of about 0.000367% (per traveler)
+- This number is per traveler *per week* (traveler numbers given per week)
+- If we then transform this probability per day we are left with a 0.000052% chance of a traveler being asymptomatic
+
+> Overall, we can expect 0.0807 asymptomatic travelers per week, or 0.012 asymptomatic travelers per day
 
 ### Small Fluxuations in Traveler Numbers
 
