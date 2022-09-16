@@ -1,6 +1,6 @@
 # Discussion Points and Notes
 
-#### Updated: 13 Sep 2022
+#### Updated: 16 Sep 2022
 
 ## A Potential Approach to Lower Susceptibility in Adults
 
