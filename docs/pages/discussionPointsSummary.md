@@ -9,12 +9,13 @@
 - To model a large portion of the adult population having immunity through childhood infections, we can divide the population based on expected childhood disease rates
 - If the adult susceptibility is expected to be 30% as a proportion of the population *not* infected as children, then 70% of the adult population can be set to recovered as an initial condition
 
-### Set Recovery-to-Susceptible Transition Rates Very High
+### Set Very Low Recovery-to-Susceptible Transition Rates
 
 - To mimic a decades long immunity we can set the recovery rate to 10, 25, or 50 years (or any other abitrary length of time)
 - This would still allow for the possibility of very rare second infections (with the rarity inversely proportional to the length of expected recovery to susceptible transition)
 - As the game length is quite short in comparison, I don't expect the number to matter much beyond a certain point
 - A working minimum is probably at least 2-4 times the length of the simulation duration, though it can easily be adjusted if the number of reinfections is considered too high
+- Long expected recory periods equate to lower transition rates from recovered to susceptible, generally ensuring a mostly immune adult population, but allowing for some variability in each model run
 
 ### Reset Susceptibility to 1.0 for the remaining population
 
